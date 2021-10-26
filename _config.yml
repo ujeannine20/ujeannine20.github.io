@@ -16,7 +16,7 @@ profile: Welcome to my website, I am good.
 profile_links:
   Email: "mailto:jeannine.uwingabire@aims.ac.rw"
   GitHub: "https://github.com/ujeannine20"
-  cv: '../documents/Jeannine_Uwingabire_CV'
+  cv: "../documents/Jeannine_Uwingabire_CV"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
