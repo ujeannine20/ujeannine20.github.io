@@ -10,7 +10,7 @@ description: >
 email: jeannine.uwingabire@aims.ac.rw
 author: Jeannine Uwingabire
 avatar: "https://github.com/ujeannine20/ujeannine20.github.io/blob/gh-pages/photo/Jeannine_photo.JPG?raw=true"
-profile: One sentence introducing yourself.
+profile: Welcome to my website: I am good.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
@@ -28,8 +28,8 @@ excerpt_separator: <!--more-->
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
-    Category: /category/
-    Donate: https://laobubu.net/donate.html
+    # Category: /category/
+    # Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title
 plugins:
