@@ -14,7 +14,7 @@ profile: One sentence introducing yourself.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "jeannine.uwingabire@aims.ac.rw"
+  Email: "mailto:jeannine.uwingabire@aims.ac.rw"
   GitHub: "https://github.com/ujeannine20"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
